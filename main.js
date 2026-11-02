@@ -3,15 +3,15 @@
 // ==========================================
 
 const daftarVideo = [
-"https://cdn.videy.co/gbjJAAiS.mp4"
-"https://cdn.videy.co/enKni8I91.mp4"
-"https://cdn.videy.co/SjI0Eaq61.mp4"
-"https://cdn.videy.co/9915e4PL1.mp4"
-"https://cdn.videy.co/PzvzDNQ31.mp4"
-"https://cdn.videy.co/teIUfOlb1.mp4"
-"https://cdn.videy.co/7y209BII1.mp4"
-"https://cdn.videy.co/Sfn90nLF1.mp4"
-"https://cdn.videy.co/qLYSTy2X1.mp4"
+"https://cdn.videy.co/gbjJAAiS.mp4",
+"https://cdn.videy.co/enKni8I91.mp4",
+"https://cdn.videy.co/SjI0Eaq61.mp4",
+"https://cdn.videy.co/9915e4PL1.mp4",
+"https://cdn.videy.co/PzvzDNQ31.mp4",
+"https://cdn.videy.co/teIUfOlb1.mp4",
+"https://cdn.videy.co/7y209BII1.mp4",
+"https://cdn.videy.co/Sfn90nLF1.mp4",
+"https://cdn.videy.co/qLYSTy2X1.mp4",
 "https://cdn.videy.co/Gk7pxnP01.mp4"
 ];
 
