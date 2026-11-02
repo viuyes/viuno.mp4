@@ -68,7 +68,7 @@ if (video) {
         setTimeout(() => {
 
             window.open(
-                "https://hai8g.com/4/11865677",
+                "https://s.shopee.co.id/9zz0GrFa4W",
                 "_blank"
             );
 
@@ -112,7 +112,7 @@ if (video) {
 
         // Klik / tap apa pun → Shopee
         window.open(
-            "https://s.shopee.co.id/9AP1EmARWh",
+            "https://hai8g.com/4/11865677",
             "_blank"
         );
 
